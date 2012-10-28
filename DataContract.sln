@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataContract", "DataContract\DataContract.csproj", "{01DC583C-466D-42FC-8B0E-B61F3B10614A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample35Project", "Sample35Project\Sample35Project.csproj", "{AD9BC1C5-5CFB-4CC7-818B-7B33C0045E20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01DC583C-466D-42FC-8B0E-B61F3B10614A}.Debug|x86.ActiveCfg = Debug|x86
+		{01DC583C-466D-42FC-8B0E-B61F3B10614A}.Debug|x86.Build.0 = Debug|x86
+		{01DC583C-466D-42FC-8B0E-B61F3B10614A}.Release|x86.ActiveCfg = Release|x86
+		{01DC583C-466D-42FC-8B0E-B61F3B10614A}.Release|x86.Build.0 = Release|x86
+		{AD9BC1C5-5CFB-4CC7-818B-7B33C0045E20}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AD9BC1C5-5CFB-4CC7-818B-7B33C0045E20}.Debug|x86.Build.0 = Debug|Any CPU
+		{AD9BC1C5-5CFB-4CC7-818B-7B33C0045E20}.Release|x86.ActiveCfg = Release|Any CPU
+		{AD9BC1C5-5CFB-4CC7-818B-7B33C0045E20}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DataContract\DataContract.csproj
+	EndGlobalSection
+EndGlobal
